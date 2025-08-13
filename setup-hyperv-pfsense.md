@@ -42,3 +42,4 @@
 ## Tải ISO PfSense
 
 - Tải file pfSense-CE-2.6.0-RELEASE-amd64.iso
+- [PfSense](https://github.com/hoang2514/pfsense-ops-monitor/releases/tag/PfSense)
